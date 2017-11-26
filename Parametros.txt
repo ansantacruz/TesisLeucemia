@@ -1,0 +1,23 @@
+Filas de la matriz ambiente:300
+Columnas de la matriz ambiente:300
+Cantidad inicial de celulas:50000
+Probabilidad aparicion PL poblacion inicial:0.9987
+Probabilidad aparicion GR poblacion inicial:0.9476
+Prababilidad Salud Celulas:0.9
+Cada cuantas iteraciones hay movimiento:1
+Numero de iteraciones para Reproduccion Nomal:10
+Numero de iteraciones que vive una PL:288
+Numero de iteraciones que vive un GB:96
+Numero de iteraciones que vive un GR:2880
+Incremento de vida de Globulo Blanco Enfermo:700
+Mínimo de vecinas detectadas para no percibir falta de individuos PL:2
+Mínimo de vecinas detectadas para no percibir falta de individuos GR:4
+Mínimo de vecinas detectadas para no percibir falta de individuos GBS:3
+Mínimo de vecinas detectadas para no percibir falta de individuos GBE:8
+Numero de iteraciones para evaluar falta individuos PL:3
+Numero de iteraciones para evaluar falta individuos GR:30
+Numero de iteraciones para evaluar falta individuos GBS:1
+Numero de iteraciones para evaluar falta individuos GBE:1
+Estres Replicativo Celula Madre:100
+Probabilidad de sindrome mielodisplásico:0.5
+Maximo Reproducciones en sindrome mielodisplásico:200
